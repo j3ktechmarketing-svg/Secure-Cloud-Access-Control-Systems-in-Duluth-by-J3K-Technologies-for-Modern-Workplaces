@@ -115,7 +115,7 @@ Clients benefit from seamless installation and long-term support. Innovation ens
 
 ---
 
-## CTA: Strengthen Your Business Security Today
+## Strengthen Your Business Security Today
 
 Modern businesses require intelligent, scalable, and cloud-connected security systems. Upgrading to advanced access control solutions improves safety, efficiency, and operational control.
 
